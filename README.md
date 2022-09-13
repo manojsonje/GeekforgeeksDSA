@@ -1,2 +1,8 @@
 # GeekforgeeksDSA
-Collection of GFG questions to ace the coding interview!
+Collection of GFG questions for the coding interview!
+
+-------------------------------------------------------------
+
+## Greedy Problems
+1. N meetings in one room
+2. 
